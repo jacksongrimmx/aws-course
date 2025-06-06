@@ -24,12 +24,6 @@ En este curso te voy a dar una visión completa y realista sobre el uso profesio
 
 ## 🧰 Tecnologías y servicios que aprenderás
 
-- AWS EC2, S3, Lambda, IAM, CloudWatch
-- RDS (MySQL o PostgreSQL), DynamoDB
-- API Gateway + Lambda para APIs sin servidor
-- CloudFormation o Terraform básico
-- GitHub Actions o AWS CodePipeline
-
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-%23DD3444?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -40,6 +34,11 @@ En este curso te voy a dar una visión completa y realista sobre el uso profesio
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+- AWS EC2, S3, Lambda, IAM, CloudWatch
+- RDS (MySQL o PostgreSQL), DynamoDB
+- API Gateway + Lambda para APIs sin servidor
+- CloudFormation o Terraform básico
+- GitHub Actions o AWS CodePipeline
 
 ---
 
