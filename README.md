@@ -4,6 +4,8 @@
 ### 🎥 Modalidad
 100% Online (con sesiones en vivo + materiales grabados)
 
+![Next Courses](https://static.wixstatic.com/media/07ff59_f0e852e6b705447c801a0468e7a3392a~mv2.png)
+
 ### 🗓️ Fechas de inscripción
 30 de Julio
 
