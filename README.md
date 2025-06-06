@@ -63,7 +63,7 @@ En este curso te voy a dar una visión completa y realista sobre el uso profesio
 - CPU: Intel Core i5 o Ryzen 5
 - RAM: 8 GB mínimo
 - Conexión a Internet estable
-- Cuenta en AWS, GitHub, Notion, ChatGPT
+- Cuenta en AWS, GitHub, ChatGPT
 
 ---
 
