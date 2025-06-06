@@ -4,15 +4,21 @@
 ### 🎥 Modalidad
 100% Online (con sesiones en vivo + materiales grabados)
 
-### 🗓️ Fechas importantes
-- **Inscripciones:** 10 de junio al 15 de junio
-- **Inicio del curso:** 22 de junio (4 fines de semana)
+### 🗓️ Fechas de inscripción
+30 de Julio
 
 ---
 
 ## 📚 ¿Qué vas a aprender?
 
-Un curso completo donde aprenderás a crear, desplegar y vender soluciones en la nube usando AWS. Desde montar una app con EC2, hasta automatizar despliegues con Lambda, S3, CloudFront y más. También aprenderás cómo cotizar y vender tus servicios en el mercado real.
+En este curso te voy a dar una visión completa y realista sobre el uso profesional de AWS en la industria:
+
+1. **Panorama general del estado actual de la nube:** te explicaré el contexto completo de la evolución tecnológica, contrastando los servicios tradicionales con los servicios modernos en la nube, para que entiendas hacia dónde va el futuro.
+2. **Fundamentos de AWS:** aprenderás todos los conceptos esenciales de AWS, desde cuentas, regiones, zonas de disponibilidad, hasta IAM, redes y almacenamiento.
+3. **Exploración del catálogo de servicios:** conocerás los principales servicios de AWS y nos enfocaremos en aquellos que son esenciales para construir infraestructura de nivel bancario y empresarial.
+4. **Diseño e integración de servicios:** verás cómo se diseña, despliega y configura una arquitectura moderna en AWS, y cómo todos los servicios interactúan entre sí.
+5. **Buenas prácticas reguladas:** te mostraré cómo hacer despliegues siguiendo buenas prácticas de seguridad, operación y cumplimiento, con base en requisitos regulatorios como los de la CNBV.
+6. **Infraestructura como código:** para que puedas trabajar al nivel que exigen las empresas internacionales, aprenderás a hacer despliegues con Infrastructure as Code usando herramientas como CloudFormation o Terraform, automatizando todo lo que construyamos en el curso.
 
 ---
 
@@ -23,8 +29,6 @@ Un curso completo donde aprenderás a crear, desplegar y vender soluciones en la
 - API Gateway + Lambda para APIs sin servidor
 - CloudFormation o Terraform básico
 - GitHub Actions o AWS CodePipeline
-- ChatGPT para resolver dudas técnicas
-- Presupuestos y cotizaciones con Excel o Notion
 
 ---
 
@@ -50,11 +54,7 @@ Un curso completo donde aprenderás a crear, desplegar y vender soluciones en la
 - Introducción a Infrastructure as Code con CloudFormation
 
 ### 💸 Módulo 4 – Finanzas, Ventas y Proyecto Final
-- Crear una propuesta formal de servicios AWS
-- Cómo cotizar migraciones, arquitecturas y despliegues
-- Cómo empezar como freelancer AWS o montar tu agencia
 - Proyecto final: Despliegue de una solución completa en AWS
-- Evaluación + asesoría individual (opcional)
 
 ---
 
@@ -69,17 +69,15 @@ Un curso completo donde aprenderás a crear, desplegar y vender soluciones en la
 
 ## ✅ ¿Qué incluye tu inscripción?
 
-- Acceso a todas las clases en vivo
-- Acceso a grabaciones y materiales complementarios
-- Proyecto final con retroalimentación personalizada
-- Diploma de participación
-- Soporte técnico por Discord/Slack durante el curso
+- Acceso al material principal con más de 50 horas de grabación
+- Acceso a mi comunidad de Discord
+- Acceso al proyecto de github maestro con los despiegues automatizados
 
 ---
 
 ## 💲 Costo
 
-**$3,000 MXN + IVA**
+**$7,500 MXN + IVA**
 
 ---
 
@@ -97,5 +95,4 @@ Un curso completo donde aprenderás a crear, desplegar y vender soluciones en la
 - Crear cuenta en AWS Free Tier
 - Crear cuenta en GitHub
 - Instalar Visual Studio Code
-- Crear cuenta en Notion
 - Instalar AWS CLI
